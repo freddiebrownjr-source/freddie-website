@@ -1,13 +1,10 @@
-# Freddie Brown Jr Website
+# Freddie Website Fixed
 
-1. Upload your headshot to:
-public/freddie-headshot.jpg
+This version includes the full sections for Advisory, Outcomes, Media, and Book.
 
-2. Run locally:
-npm install
-npm run dev
-
-3. Deploy on Cloudflare Pages:
-- Framework preset: Vite
+Cloudflare Pages:
 - Build command: npm run build
-- Output directory: dist
+- Build output directory: dist
+
+Your photo must be uploaded as:
+public/freddie-headshot.jpg
