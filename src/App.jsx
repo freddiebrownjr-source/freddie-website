@@ -28,7 +28,7 @@ export default function App() {
 
       <main id="top">
         <section className="relative overflow-hidden px-6 py-24 md:py-36">
-          <div className="relative mx-auto grid max-w-7xl items-center gap-14 lg:grid-cols-[1.1fr_.9fr]">
+          <div className="relative mx-auto grid max-w-7xl">
             <div className="text-center lg:text-left">
               <div className="mx-auto mb-7 w-fit rounded-full border border-black/10 bg-white/75 px-4 py-2 text-sm text-black/60 shadow-sm lg:mx-0">Enterprise execution for the AI era</div>
               <h1 className="mx-auto max-w-6xl text-5xl font-semibold tracking-[-0.06em] text-black md:text-7xl lg:mx-0 lg:text-8xl">From AI strategy to real execution.</h1>
@@ -39,11 +39,6 @@ export default function App() {
               </div>
             </div>
 
-            <div className="relative flex justify-center lg:justify-end">
-              <div className="relative overflow-hidden rounded-[2.5rem] border border-black/5 bg-white/70 p-3 shadow-2xl backdrop-blur-xl">
-                <img src="/freddie-headshot.jpg" alt="Freddie Brown Jr" className="h-[620px] w-[480px] rounded-[2rem] object-cover" />
-              </div>
-            </div>
           </div>
         </section>
 
